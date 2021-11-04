@@ -1,0 +1,12 @@
+{
+    "name": "michaelcardoza/folder-compressor",
+    "authors": [
+        {
+            "name": "Michael Cardoza",
+            "email": "mc.michaelcardoza@gmail.com"
+        }
+    ],
+    "require": {
+        "nelexa/zip": "^4.0"
+    }
+}
